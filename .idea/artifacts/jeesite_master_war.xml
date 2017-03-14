@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jeesite-master:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jeesite-master.war">
+      <element id="artifact" artifact-name="jeesite-master:war exploded" />
+    </root>
+  </artifact>
+</component>
